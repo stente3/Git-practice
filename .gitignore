@@ -1,2 +1,4 @@
-./initializr/robots.txt
+initializr/robots.txt
+node_modules/
+
 
